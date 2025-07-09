@@ -1,3 +1,5 @@
+# Infrared Thermography Temperature Prediction
+
 Infrared Thermography Temperature Prediction is a regression task aimed at predicting a person's core body temperature using non-contact facial measurements. The dataset used for this prediction consists of features computed from an Infrared Thermography (IRT) system, which captures facial skin temperature, along with environmental data. These features describe various thermal characteristics of the face and the conditions under which they were measured. The dataset is the "Infrared Thermography Temperature Dataset", which is publicly available from the UCI Machine Learning Repository and PhysioNet.
 
 
